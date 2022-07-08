@@ -1,3 +1,3 @@
 # ToLet
 
-### Refactored by Ian Schoonover
+### Use for renting purposes
